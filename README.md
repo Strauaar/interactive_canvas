@@ -4,6 +4,5 @@
 
 Navigate to the project directory in your terminal.
 <br>
-$ webpack main.js bundle.js
-<br>
+
 $ open index.html
