@@ -7,4 +7,4 @@ Navigate to the project directory in your terminal.
 
 $ open index.html
 
-<p>The differences from the original can be found with the added event listener in the gwindow.Game function as well as in the moveCircle and moveRandom functions.</p>
+<p>The differences from the original can be found with the added event listener in the window.Game function as well as in the moveCircle and moveRandom functions.</p>
